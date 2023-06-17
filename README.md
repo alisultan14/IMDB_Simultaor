@@ -1,1 +1,2 @@
-# CS320-Project2
+
+This project aims to design and implement a comprehensive and dynamic movie review website, akin to platforms like Rotten Tomatoes or IMDb. The intent is to foster an interactive environment, enabling three different types of users - hired critics, user critics, and general users - to engage actively with the system and the community, each with specific roles and privileges for quality assurance. The design not only seeks to ensure objective correctness but also prioritizes optimal system performance and stress resilience. The platform will have robust metrics in place to capture vital usage statistics, which will be instrumental in the system's long-term maintenance and enhancement
